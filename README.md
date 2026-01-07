@@ -109,7 +109,7 @@ python monitoring/log_monitor.py
 
 Tip: While the monitor is running, trigger traffic to `/gms/players` and watch the alert state change.
 
-## Notes for recruiters and interviewers
+## Notes for viewers
 
 If you are reviewing this as an application support sample, here is what to look for:
 
