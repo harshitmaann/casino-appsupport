@@ -1,5 +1,7 @@
 # Casino AppSupport
 
+[![ci](https://github.com/harshitmaann/casino-appsupport/actions/workflows/ci.yml/badge.svg)](https://github.com/harshitmaann/casino-appsupport/actions/workflows/ci.yml)
+
 A small application support and incident response lab that simulates a casino style upstream dependency (GMS-like service) and exposes health checks, logs, and Prometheus metrics.
 
 This project is built to show how I think and work in application support: reproduce incidents, observe symptoms, identify root cause signals, and validate fixes with metrics and logs.
