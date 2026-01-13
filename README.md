@@ -6,6 +6,8 @@ A small application support and incident response lab that simulates a casino st
 
 This project is built to show how I think and work in application support: reproduce incidents, observe symptoms, identify root cause signals, and validate fixes with metrics and logs.
 
+**Runbook:** [docs/RUNBOOK.md](docs/RUNBOOK.md)
+
 ## What this demonstrates
 
 - Incident triage under upstream failures (503 responses) and latency spikes
